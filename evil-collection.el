@@ -234,6 +234,7 @@ through removing their entry from `evil-collection-mode-list'."
     simple
     slime
     sly
+    snapshot-timemachine
     speedbar
     tablist
     tar-mode
